@@ -28,11 +28,24 @@ Games I've seen use this design are:
 
 You can check for other games here or similar sites: https://gbhwdb.gekkio.fi/cartridges/
 
+Lastly, the following are links to working capacitors and resistors for the board, if needed:
+- Capacitor: https://www.mouser.com/ProductDetail/KYOCERA-AVX/SA105C103KAA?qs=cyMPNcbJodxQaiY0zN9Clw%3D%3D
+- Resistor: https://www.mouser.com/ProductDetail/594-NFR25H0001002JR5
+
 
 The rest is up to you. Sorry, I'm no expert :)
+
 Examples below:
 
-
+Front:
 ![Final - Front](https://github.com/ArmenianBot/DMG-DECN-02/assets/18238389/0788ed3b-e5cd-4895-ae19-3e78f2ba7d32)
 
+Back:
 ![Final - Back](https://github.com/ArmenianBot/DMG-DECN-02/assets/18238389/adf930d1-49f1-4940-9cfd-e2d851fe72b8)
+
+An example of a blank board and a board with parts:
+![20230121_125228](https://github.com/ArmenianBot/DMG-DECN-02/assets/18238389/9d2af97f-1f61-4611-9f10-3550128b5899)
+
+Boards I ordered through JLC PCB:
+![20230118_181455](https://github.com/ArmenianBot/DMG-DECN-02/assets/18238389/5d4f24c7-899c-4160-a92f-43587857accf)
+
