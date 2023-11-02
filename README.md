@@ -1,7 +1,7 @@
 # DMG-DECN-02
 A recreation of the DMG-DECN-02 Game Boy cartridge PCB for board repairs and restorations.
 
-========================================================================================
+====================================================================
 
 This is intended as a replacement PCB for original Game Boy games that use the DMG-DECN-02 board design.
 
